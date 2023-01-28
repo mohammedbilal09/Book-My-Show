@@ -12,6 +12,7 @@ They are:-
 ### `npm install -D tailwindcss`
 ### `npx tailwindcss init`
 
+Then download the node_modules, as I wasn't able to push them on github.
 
 ## To run the project 
 Use the command 
